@@ -239,10 +239,7 @@ logs are ever created or that all internet activity is anonymous.
 **Build 5 · Android · Free**
 
 [⬇️ Download the latest APK from
-GitHub](https://github.com/kalonjames2220/DEXTA-Updates/releases/latest)
-
-[📚 Browse previous releases and update
-notes](https://github.com/kalonjames2220/DEXTA-Updates/releases)
+GitHub](https://github.com/kalonjemes2220/DEXTA-Updates/releases/download/v2.1.5/DEXTA-Browser.apk)
 
 ```{=html}
 </blockquote>
