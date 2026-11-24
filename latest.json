@@ -1,0 +1,8 @@
+{
+  "versionCode": 5,
+  "versionName": "2.1.5",
+  "apkUrl": "https://github.com/kalonjemes2220/DEXTA-Updates/releases/download/v2.1.5/DEXTA-Browser.apk",
+  "sha256": "f0e6891f7b40105141716d42c9556e80f8c33a45e918959d2875984fc6dcc734",
+  "signerSha256": "4ce1cfcd5dfeca0972e177402b6917f0968706b56e704f3d3050472d7db37945",
+  "notes": "DEXTA Browser 2.1.5"
+}
