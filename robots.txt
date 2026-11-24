@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://kalonjemes2220.github.io/DEXTA-Updates/sitemap.xml
