@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "2.2.8",
-  "apkUrl": "https://github.com/kalonjemes2220/DEXTA-Updates/releases/download/v2.2.8/DEXTA-Browser.apk",
-  "sha256": "c89f9f1e201a67226e3ce5629309a4ab671f708160c3d8a29347eca9aba2f222",
+  "versionCode": 9,
+  "versionName": "2.2.9",
+  "apkUrl": "https://github.com/kalonjemes2220/DEXTA-Updates/releases/download/v2.2.9/DEXTA-Browser.apk",
+  "sha256": "8f45b7520cf4aaf19546e9db9a5025d55f270fe542921488596ee2d2650fd7cd",
   "signerSha256": "4ce1cfcd5dfeca0972e177402b6917f0968706b56e704f3d3050472d7db37945",
-  "notes": "DEXTA Browser 2.2.8"
+  "notes": "DEXTA Browser 2.2.9"
 }
